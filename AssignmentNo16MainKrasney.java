@@ -55,3 +55,10 @@ public class AssignmentNo16MainKrasney {
         System.out.println("\n" + movie.equals(drama));
     }
 }
+
+/**
+ * Sources:
+ * 
+ * https://stackabuse.com/java-check-if-array-contains-value-or-element/#arraysaslistcontains
+ * https://www.developer.com/java/java-string-format-method/
+ */
